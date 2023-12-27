@@ -1,0 +1,21 @@
+
+Ccom.spring.bioMedical.service.UserService#findAll()Ljava/util/List;ˆ
+~/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/service/UserService.java* *("1*®
+1,	 ,(©
+¦
+,	 ,(5
+%0/com.spring.bioMedical.repository.UserRepository"__id*]
+
+__unknown_file (A*?+
+)com.spring.bioMedical.service.UserService"
+userRepositoryÎË
+,	 ,(!
+%1java.util.List"Icom.spring.bioMedical.repository.UserRepository#findAll()Ljava/util/List;*S
+
+__unknown_file (7
+5
+%0/com.spring.bioMedical.repository.UserRepository2	findAll()""
+, ,("
+
+%1java.util.ListB-+
+)com.spring.bioMedical.service.UserServiceH

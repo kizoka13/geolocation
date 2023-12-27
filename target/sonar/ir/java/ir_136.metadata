@@ -1,0 +1,9 @@
+com.spring.bioMedical.Controller.RegisterController#confirmRegistration(Lorg/springframework/web/servlet/ModelAndView;Lorg/springframework/validation/BindingResult;Ljava/util/Map;Lorg/springframework/web/servlet/mvc/support/RedirectAttributes;)Lorg/springframework/web/servlet/ModelAndView;
+==
+saveUser com.spring.bioMedical.service.UserService#saveUser(Lcom/spring/bioMedical/entity/User;)V
+addObject org.springframework.web.servlet.ModelAndView#addObject(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/web/servlet/ModelAndView;
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;
+setViewName org.springframework.web.servlet.ModelAndView#setViewName(Ljava/lang/String;)V
+setPassword com.spring.bioMedical.entity.User#setPassword(Ljava/lang/String;)V
+setEnabled com.spring.bioMedical.entity.User#setEnabled(I)V
+findByConfirmationToken com.spring.bioMedical.service.UserService#findByConfirmationToken(Ljava/lang/String;)Lcom/spring/bioMedical/entity/User;

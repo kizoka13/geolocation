@@ -1,0 +1,8 @@
+com.spring.bioMedical.Controller.AdminController#saveEmployee(Lcom/spring/bioMedical/entity/Admin;)Ljava/lang/String;
+==
+println java.io.PrintStream#println(Ljava/lang/Object;)V
+setPassword com.spring.bioMedical.entity.Admin#setPassword(Ljava/lang/String;)V
+setEnabled com.spring.bioMedical.entity.Admin#setEnabled(Z)V
+setConfirmationToken com.spring.bioMedical.entity.Admin#setConfirmationToken(Ljava/lang/String;)V
+save com.spring.bioMedical.service.AdminServiceImplementation#save(Lcom/spring/bioMedical/entity/Admin;)V
+setRole com.spring.bioMedical.entity.Admin#setRole(Ljava/lang/String;)V

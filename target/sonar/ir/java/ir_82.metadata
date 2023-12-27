@@ -1,0 +1,6 @@
+com.spring.bioMedical.config.CustomAuthenticationSuccessHandler#onAuthenticationSuccess(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;Lorg/springframework/security/core/Authentication;)V
+org.springframework.security.core.authority.AuthorityUtils#authorityListToSet(Ljava/util/Collection;)Ljava/util/Set;
+==
+contains java.util.Set#contains(Ljava/lang/Object;)Z
+getAuthorities org.springframework.security.core.Authentication#getAuthorities()Ljava/util/Collection;
+sendRedirect javax.servlet.http.HttpServletResponse#sendRedirect(Ljava/lang/String;)V

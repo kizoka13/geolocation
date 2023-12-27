@@ -1,0 +1,15 @@
+
+Jcom.spring.bioMedical.entity.User#getConfirmationToken()Ljava/lang/String;€
+v/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/entity/User.java[ [(#"1*»
+1\	 \(…
+‚
+\	 \(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:#
+!com.spring.bioMedical.entity.User"
+confirmationToken"$
+\ \(
+
+%0java.lang.StringB%#
+!com.spring.bioMedical.entity.UserH

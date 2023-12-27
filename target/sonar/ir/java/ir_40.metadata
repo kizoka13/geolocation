@@ -1,0 +1,4 @@
+com.spring.bioMedical.Controller.AdminController#update(Lcom/spring/bioMedical/entity/Admin;)Ljava/lang/String;
+==
+println java.io.PrintStream#println(Ljava/lang/Object;)V
+save com.spring.bioMedical.service.AdminServiceImplementation#save(Lcom/spring/bioMedical/entity/Admin;)V

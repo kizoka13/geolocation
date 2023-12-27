@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.EmailService#sendEmail(Lorg/springframework/mail/SimpleMailMessage;)V
+==
+send org.springframework.mail.MailSender#send(Lorg/springframework/mail/SimpleMailMessage;)V

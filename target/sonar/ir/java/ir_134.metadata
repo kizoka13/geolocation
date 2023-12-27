@@ -1,0 +1,5 @@
+com.spring.bioMedical.Controller.RegisterController#showRegistrationPage(Lorg/springframework/web/servlet/ModelAndView;Lcom/spring/bioMedical/entity/User;)Lorg/springframework/web/servlet/ModelAndView;
+==
+addObject org.springframework.web.servlet.ModelAndView#addObject(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/web/servlet/ModelAndView;
+println java.io.PrintStream#println(Ljava/lang/String;)V
+setViewName org.springframework.web.servlet.ModelAndView#setViewName(Ljava/lang/String;)V

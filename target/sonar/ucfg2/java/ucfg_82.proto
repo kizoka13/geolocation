@@ -1,0 +1,16 @@
+
+Acom.spring.bioMedical.entity.User#getLastseen()Ljava/lang/String;€
+v/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/entity/User.javaA A("1*°
+1B	 B({
+y
+B	 B(
+%0java.lang.String"__id*O
+
+__unknown_file (3*1#
+!com.spring.bioMedical.entity.User"
+
+lastseen"$
+B B(
+
+%0java.lang.StringB%#
+!com.spring.bioMedical.entity.UserH

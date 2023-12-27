@@ -1,0 +1,48 @@
+
+gcom.spring.bioMedical.service.AdminServiceImplementation#findByRole(Ljava/lang/String;)Ljava/util/List;ò
+ç/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/service/AdminServiceImplementation.java2 2("startingBlock*Ü
+startingBlock2 2(+ã
+à
+1 1(
+
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*6
+
+__unknown_file (
+
+userjava.lang.StringX
+V
+2& 2(*
+userjava.lang.String"__annotation*"
+
+__unknown_file (
+
+%2*
+1*£
+14	 4(∫
+∑
+4	 4(6
+%00com.spring.bioMedical.repository.AdminRepository"__id*m
+
+__unknown_file (Q*O:
+8com.spring.bioMedical.service.AdminServiceImplementation"
+adminRepository≤Ø
+4	 4()
+%1java.util.List"_com.spring.bioMedical.repository.AdminRepository#findByRole(Ljava/lang/String;)Ljava/util/List;*T
+
+__unknown_file (8
+6
+%00com.spring.bioMedical.repository.AdminRepository*6
+
+__unknown_file (
+
+userjava.lang.String2findByRole(Ljava/lang/String;)""
+4 4(*
+
+%1java.util.List:$
+2 2(*
+userjava.lang.StringB<:
+8com.spring.bioMedical.service.AdminServiceImplementationH

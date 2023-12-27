@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.AdminServiceImplementation#save(Lcom/spring/bioMedical/entity/Admin;)V
+==
+save org.springframework.data.repository.CrudRepository#save(Ljava/lang/Object;)Ljava/lang/Object;

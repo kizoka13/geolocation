@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.AdminServiceImplementation#findByEmail(Ljava/lang/String;)Lcom/spring/bioMedical/entity/Admin;
+==
+findByEmail com.spring.bioMedical.repository.AdminRepository#findByEmail(Ljava/lang/String;)Lcom/spring/bioMedical/entity/Admin;

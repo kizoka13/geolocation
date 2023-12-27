@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.AdminServiceImplementation#findAll()Ljava/util/List;
+==
+findAll org.springframework.data.jpa.repository.JpaRepository#findAll()Ljava/util/List;

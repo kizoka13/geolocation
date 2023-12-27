@@ -1,0 +1,4 @@
+com.spring.bioMedical.config.SecurityConfiguration#userDetailsManager()Lorg/springframework/security/provisioning/UserDetailsManager;
+org.springframework.jdbc.core.support.JdbcDaoSupport#setDataSource(Ljavax/sql/DataSource;)V
+org.springframework.security.provisioning.JdbcUserDetailsManager#instance-init#
+org.springframework.security.provisioning.JdbcUserDetailsManager#<init>()V

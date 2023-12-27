@@ -1,0 +1,21 @@
+
+Rcom.spring.bioMedical.service.AdminServiceImplementation#findAll()Ljava/util/List;ò
+ç/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/service/AdminServiceImplementation.java ("1*∆
+1	 (∫
+∑
+	 (6
+%00com.spring.bioMedical.repository.AdminRepository"__id*m
+
+__unknown_file (Q*O:
+8com.spring.bioMedical.service.AdminServiceImplementation"
+adminRepository’“
+	 ("
+%1java.util.List"Oorg.springframework.data.jpa.repository.JpaRepository#findAll()Ljava/util/List;*T
+
+__unknown_file (8
+6
+%00com.spring.bioMedical.repository.AdminRepository2	findAll()""
+ (#
+
+%1java.util.ListB<:
+8com.spring.bioMedical.service.AdminServiceImplementationH

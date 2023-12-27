@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.AdminServiceImplementation#findByRole(Ljava/lang/String;)Ljava/util/List;
+==
+findByRole com.spring.bioMedical.repository.AdminRepository#findByRole(Ljava/lang/String;)Ljava/util/List;

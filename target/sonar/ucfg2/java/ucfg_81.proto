@@ -1,0 +1,144 @@
+
+Ecom.spring.bioMedical.entity.Appointment#toString()Ljava/lang/String;‡
+}/C:/Users/kizok/devOpslab/jenkins-sonarcloud-practice/geolocation/src/main/java/com/spring/bioMedical/entity/Appointment.java{ {("1*¹
+1|	 |(d
+b
+|	 |( 
+%0java.lang.String"__concat* 
+|	 |(
+Appointment [id=*
+| |( 
+""m
+k
+|	 |(,
+%1java.lang.String"__concat*$
+|	 |( 
+
+%0java.lang.String*
+|# |(,	
+, name=~
+|
+|/ |(3
+%2java.lang.String"__id*R
+
+__unknown_file (6*4*
+(com.spring.bioMedical.entity.Appointment"
+namez
+x
+|	 |(3
+%3java.lang.String"__concat*$
+|	 |(,
+
+%1java.lang.String*$
+|/ |(3
+
+%2java.lang.Stringn
+l
+|	 |(@
+%4java.lang.String"__concat*$
+|	 |(3
+
+%3java.lang.String*
+|6 |(@
+
+, email=
+}
+|C |(H
+%5java.lang.String"__id*S
+
+__unknown_file (7*5*
+(com.spring.bioMedical.entity.Appointment"
+emailz
+x
+|	 |(H
+%6java.lang.String"__concat*$
+|	 |(@
+
+%4java.lang.String*$
+|C |(H
+
+%5java.lang.Stringm
+k
+|	 |(T
+%7java.lang.String"__concat*$
+|	 |(H
+
+%6java.lang.String*
+|K |(T	
+, date=~
+|
+|W |([
+%8java.lang.String"__id*R
+
+__unknown_file (6*4*
+(com.spring.bioMedical.entity.Appointment"
+datez
+x
+|	 |([
+%9java.lang.String"__concat*$
+|	 |(T
+
+%7java.lang.String*$
+|W |([
+
+%8java.lang.Stringn
+l
+|	 |(g
+%10java.lang.String"__concat*$
+|	 |([
+
+%9java.lang.String*
+|^ |(g	
+, time=
+}
+|j |(n
+%11java.lang.String"__id*R
+
+__unknown_file (6*4*
+(com.spring.bioMedical.entity.Appointment"
+time}
+{
+|	 |(n
+%12java.lang.String"__concat*%
+|	 |(g
+
+%10java.lang.String*%
+|j |(n
+
+%11java.lang.Stringv
+t
+|	 }(
+%13java.lang.String"__concat*%
+|	 |(n
+
+%12java.lang.String*
+} }(
+, description=‡
+„
+} }($
+%14java.lang.String"__id*Y
+
+__unknown_file (=*;*
+(com.spring.bioMedical.entity.Appointment"
+description}
+{
+|	 }($
+%15java.lang.String"__concat*%
+|	 }(
+
+%13java.lang.String*%
+} }($
+
+%14java.lang.Stringi
+g
+|	 }(*
+%16java.lang.String"__concat*%
+|	 }($
+
+%15java.lang.String*
+}' }(*
+]"%
+| }(+
+
+%16java.lang.StringB,*
+(com.spring.bioMedical.entity.AppointmentH

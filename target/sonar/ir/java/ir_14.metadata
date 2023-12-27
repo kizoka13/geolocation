@@ -1,0 +1,3 @@
+com.spring.bioMedical.service.UserService#findByConfirmationToken(Ljava/lang/String;)Lcom/spring/bioMedical/entity/User;
+==
+findByConfirmationToken com.spring.bioMedical.repository.UserRepository#findByConfirmationToken(Ljava/lang/String;)Lcom/spring/bioMedical/entity/User;
